@@ -1,0 +1,32 @@
+body{
+  background-color: #276678;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: black;
+}
+
+#title{
+  padding-top: 5%;
+}
+
+h1{
+  font-family: 'Orbitron', sans-serif;
+  font-size: 850%;
+}
+
+h2{
+  font-size: 250%;
+}
+
+.col-2{
+  padding: 2%;
+}
+
+img{
+  width: 80%;
+}
+
+.row{
+  margin: 0%;
+  padding: 0%;
+}
